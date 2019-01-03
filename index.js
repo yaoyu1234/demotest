@@ -4,3 +4,4 @@
 window.onload = function () {
     var a = 3;
 }
+alert(3)
